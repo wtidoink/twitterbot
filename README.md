@@ -1,2 +1,2 @@
 # twitterbot
-A twitter made with oauth1.0a api.
+A twitter bot made with twitter oauth1.0a api.
